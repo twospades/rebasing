@@ -1,1 +1,3 @@
 third file in feature1 branch
+
+new line was added.
